@@ -1,6 +1,6 @@
 import os
 from setuptools import setup
-from health_check import __version__
+from django_multiple_email_backends import __version__
 
 # Utility function to read the README file.
 # Used for the long_description.  It's nice, because now 1) we have a top level
